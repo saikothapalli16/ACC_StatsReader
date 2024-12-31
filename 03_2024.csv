@@ -1,0 +1,22 @@
+Team1,Team2,FG % differential,3 pt % differential,FT % differential,Rebound differential, Offensive Rebound differential, Assists differential, Personal foul differentials, Steals differential,Turnovers differential, Blocks differential, Points differential
+Georgia Tech,Florida St.,0.0225,-0.0256,-0.0564,22.0,11.0,5.0,-6.0,-6.0,7.0,3.0,9.0
+North Carolina,NC State,0.055,-0.0987,0.1644,3.0,-4.0,4.0,-8.0,1.0,-1.0,-1.0,9.0
+Virginia Tech,Wake Forest,0.0965,-0.0114,0.0779,-2.0,-2.0,4.0,0.0,0.0,-1.0,-3.0,11.0
+Boston College,Pittsburgh,-0.1055,-0.0833,-0.3,1.0,3.0,-7.0,1.0,-3.0,4.0,-3.0,-25.0
+Duke,Virginia,0.1827,0.0217,0.0077,13.0,2.0,5.0,2.0,5.0,-2.0,-3.0,25.0
+Notre Dame,Clemson,0.0312,0.1786,0.0,0.0,-2.0,1.0,-4.0,4.0,0.0,-2.0,7.0
+Louisville,Syracuse,-0.1403,-0.4145,0.159,3.0,7.0,1.0,9.0,-1.0,-1.0,-1.0,-6.0
+NC State,Duke,0.0116,0.0333,-0.1667,-5.0,-6.0,0.0,-7.0,-2.0,5.0,1.0,-15.0
+Clemson,Syracuse,0.0868,0.0594,0.25,7.0,0.0,8.0,-2.0,1.0,3.0,3.0,15.0
+North Carolina,Notre Dame,0.1456,0.1162,-0.025,8.0,3.0,6.0,-1.0,4.0,-6.0,2.0,33.0
+Louisville,Virginia Tech,-0.0276,-0.057,-0.2297,-3.0,0.0,-4.0,2.0,-6.0,6.0,-1.0,-16.0
+Pittsburgh,Florida St.,0.1362,0.129,-0.1631,0.0,-2.0,10.0,4.0,-4.0,-1.0,2.0,15.0
+Wake Forest,Georgia Tech,-0.116,-0.2262,-0.15,-9.0,0.0,-4.0,-5.0,4.0,-10.0,0.0,-1.0
+Miami (FL),Boston College,-0.0683,-0.1226,0.107,-2.0,1.0,-2.0,1.0,0.0,-3.0,-1.0,-10.0
+Virginia Tech,Notre Dame,-0.0741,-0.1704,0.1075,11.0,10.0,0.0,-7.0,0.0,-2.0,5.0,6.0
+Florida St.,Miami (FL),-0.0769,-0.0048,0.1895,1.0,3.0,7.0,-2.0,5.0,-8.0,2.0,8.0
+Louisville,Boston College,-0.0977,-0.0847,0.1786,-11.0,-5.0,-4.0,-5.0,2.0,-3.0,0.0,-6.0
+Wake Forest,Clemson,0.1157,0.0824,-0.0625,2.0,-3.0,4.0,-3.0,-4.0,3.0,2.0,5.0
+Duke,North Carolina,-0.0667,-0.0754,-0.0833,-11.0,-4.0,-1.0,-1.0,0.0,-6.0,3.0,-5.0
+Pittsburgh,NC State,0.0357,0.0087,0.0,0.0,1.0,4.0,-3.0,2.0,-5.0,0.0,8.0
+Virginia,Georgia Tech,0.114,0.2711,-0.3462,-9.0,-6.0,7.0,5.0,6.0,-7.0,2.0,15.0
